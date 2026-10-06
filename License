@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2026 Tsimply9 (teuvex-app)
+Copyright (c) 2026 Teuvex
+
+Diese Lizenz gilt fuer alles in diesem Repository mit Ausnahme des Ordners
+`dictionaries/`. Dessen Dateien stehen unter CC BY-SA 4.0 (siehe dictionaries/NOTICE.md).
+This license applies to everything in this repository except the folder `dictionaries/`,
+whose files are licensed under CC BY-SA 4.0 (see dictionaries/NOTICE.md).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
